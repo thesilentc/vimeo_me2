@@ -7,3 +7,5 @@ require "vimeo_me2/version"
 module VimeoMe2
 
 end
+
+#require all?
